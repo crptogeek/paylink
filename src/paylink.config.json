@@ -1,25 +1,25 @@
 {
-  "theme": "minimalist-dark-theme",
+  "theme": "minimalist-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "CrptoGeek  ",
+    "description": "Blogger en Hive. Estudiante en Platzi",
+    "alt": "Photo of CrptoGeek",
+    "hero": "./images/profile.png"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "https://github.com/crptogeek" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/crptogeek" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
-    { "label": "Telegram", "type": "telegram", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/crptogeek" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
@@ -32,7 +32,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "1KbT25puvyrKnQmkJhFcvoxQTiL2uimgYC",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -73,14 +73,14 @@
     },
     {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT TRC20",
+      "value": "TNGCXb1WV8ZQECvqCMHHArPbjmSJ9jD61U",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/crptogeek",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TNGCXb1WV8ZQECvqCMHHArPbjmSJ9jD61U",
       "img": "./images/payments/trx.svg"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "Tarjeta CUP",
+      "value": "9205-9598-7241-7556",
       "img": "./images/payments/card.svg"
     }
   ]
