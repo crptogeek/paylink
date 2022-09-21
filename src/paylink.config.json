@@ -1,11 +1,11 @@
 {
-  "theme": "minimalist-theme",
+  "theme": "swordfest-dark-theme",
 
   "properties": {
     "name": "CrptoGeek  ",
     "description": "Blogger en Hive. Estudiante en Platzi",
     "alt": "Photo of CrptoGeek",
-    "hero": "./images/profile.png"
+    "hero": "./images/profile-cg.png"
   },
 
   "Social": [
