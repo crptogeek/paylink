@@ -48,12 +48,6 @@
       "img": "./images/payments/qvapay.svg"
     },
     {
-      "id": "usdt",
-      "label": "USDT TRC20",
-      "value": "TNGCXb1WV8ZQECvqCMHHArPbjmSJ9jD61U",
-      "img": "./images/payments/usdt.svg"
-    },
-    {
       "id": "trx",
       "label": "Tron",
       "value": "TNGCXb1WV8ZQECvqCMHHArPbjmSJ9jD61U",
