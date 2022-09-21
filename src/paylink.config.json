@@ -36,10 +36,10 @@
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BinanceUSD",
+      "id": "hive",
+      "label": "HIVE",
       "value": "",
-      "img": "./images/payments/busd.svg"
+      "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
       "id": "matic",
