@@ -42,34 +42,10 @@
       "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "doge",
-      "label": "DogeCoin",
-      "value": "",
-      "img": "./images/payments/doge.svg"
-    },
-    {
-      "id": "eth",
-      "label": "Ethereum",
-      "value": "",
-      "img": "./images/payments/eth.svg"
-    },
-    {
-      "id": "ltc",
-      "label": "Litecoin",
-      "value": "",
-      "img": "./images/payments/ltc.svg"
-    },
-    {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "",
-      "img": "./images/payments/paypal.svg"
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "https://qvapay.com/payme/crptogeek",
+      "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "usdt",
@@ -78,38 +54,14 @@
       "img": "./images/payments/usdt.svg"
     },
     {
-      "id": "qvapay",
-      "label": "QvaPay",
-      "value": "https://qvapay.com/payme/crptogeek",
-      "img": "./images/payments/qvapay.svg"
-    },
-    {
-      "id": "sol",
-      "label": "Solana",
-      "value": "",
-      "img": "./images/payments/sol.svg"
-    },
-    {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
-    },
-    {
       "id": "trx",
       "label": "Tron",
       "value": "TNGCXb1WV8ZQECvqCMHHArPbjmSJ9jD61U",
       "img": "./images/payments/trx.svg"
     },
     {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
-    },
-    {
       "id": "card",
-      "label": "Tarjeta CUP",
+      "label": "CUP BanMet",
       "value": "9205-9598-7241-7556",
       "img": "./images/payments/card.svg"
     }
